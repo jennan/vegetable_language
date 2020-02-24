@@ -1,6 +1,12 @@
 # The electrophysiology of Vegetable language: A replication study
 
-TODO write the paper structure
+## Introduction
+
+## Methods
+
+## Results
+
+## Conclusion
 
 # References
 
