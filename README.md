@@ -2,6 +2,8 @@
 
 ## Introduction
 
+We tried to replicate this famous study about vegetable language understanding.
+
 ## Methods
 
 ## Results
