@@ -15,6 +15,7 @@ Subjects:
 
 Electrodes were placed in Cz and Pz.
 Subjects were presented with coherent and incoherent sentences.
+Pumpkin was tasty.
 
 ## Results
 
