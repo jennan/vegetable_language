@@ -15,6 +15,8 @@ Subjects:
 
 Subjects were presented with coherent and incoherent sentences.
 
+Pumpkin has been eating after the experiment.
+
 ## Results
 
 ## Discussion
