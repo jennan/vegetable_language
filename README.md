@@ -14,6 +14,7 @@ Subjects:
 - naive pumpkin not knowing what was happening
 
 Electrodes were placed in Cz and Pz.
+Subjects were presented with coherent and incoherent sentences.
 
 ## Results
 
