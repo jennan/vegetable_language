@@ -4,6 +4,8 @@ TODO write the structure of the paper
 
 ## Introduction
 
+We replicated the results of Frisch and Beim graben.
+
 ## Methods
 
 ## Results
