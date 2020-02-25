@@ -10,7 +10,7 @@ TODO write the structure of the paper
 
 ---------------------------
 It is convention that all README files on github contain a bird of choice (ideally a penguin for linux compatibility).
-
+```
              . --- .
            /        \
           |  O  _  O |
@@ -25,4 +25,5 @@ It is convention that all README files on github contain a bird of choice (ideal
        ___\           /___
        ~;_  >- . . -<  _i~
 
-----------------------------
+```
+---------------------------
