@@ -13,6 +13,8 @@ Subjects:
 - naive student looking for credits
 - naive pumpkin not knowing what was happening
 
+Subjects were presented with coherent and incoherent sentences.
+
 ## Results
 
 ## Discussion
