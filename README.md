@@ -8,6 +8,11 @@ We replicated the results of Frisch and Beim graben.
 
 ## Methods
 
+Subjects:
+
+- naive student looking for credits
+- naive pumpkin not knowing what was happening
+
 ## Results
 
 ## Discussion
