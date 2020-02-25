@@ -13,6 +13,8 @@ Subjects:
 - naive student looking for credits
 - naive pumpkin not knowing what was happening
 
+Electrodes were placed in Cz and Pz.
+
 ## Results
 
 ## Discussion
