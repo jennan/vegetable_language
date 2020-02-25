@@ -14,7 +14,6 @@ Subjects:
 - naive pumpkin not knowing what was happening
 
 Subjects were presented with coherent and incoherent sentences.
-
 Pumpkin has been eating after the experiment.
 
 ## Results
